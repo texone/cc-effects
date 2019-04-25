@@ -1,0 +1,12 @@
+{
+    "name": "cc.creativecomputing.effects",
+    "displayName": "creative computing effects",
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "Unity package to animate gameobjects procedurally.",
+    "keywords": [
+        "maths",
+        "unity"
+    ],
+    "category": "Unity"
+}
